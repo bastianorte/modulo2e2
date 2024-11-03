@@ -8,7 +8,8 @@ CSS de manera eficiente, y la aplicación de media queries para lograr una corre
 adaptabilidad en dispositivos de diferentes tamaños.
 
 ## 👁️ Acceso al proyecto
-  Puedes visualizar la pagina en el siguiente link
+  Puedes visualizar la pagina en el siguiente link:
+  https://bastianorte.github.io/modulo2e2/index.html
 
 ## 📁 Proyecto 
 ```
