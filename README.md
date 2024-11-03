@@ -7,6 +7,13 @@ implica la implementación de una metodología como BEM, el uso de SASS para est
 CSS de manera eficiente, y la aplicación de media queries para lograr una correcta
 adaptabilidad en dispositivos de diferentes tamaños.
 
+
+Para este proyecto use el patron de organizacion 7-1 dividiendo una carpeta scss(sass) en 7 carpetas(Abtracts, Component, Core, layout, pages, themes, vendor) y el archivo styles.scss
+
+
+Para la responsividad de este proyecto use Media Queries y Bootstrap
+
+
 ## 👁️ Acceso al proyecto
   Puedes visualizar la pagina en el siguiente link:
   https://bastianorte.github.io/modulo2e2/index.html
@@ -14,7 +21,7 @@ adaptabilidad en dispositivos de diferentes tamaños.
 ## 📁 Proyecto 
 ```
 ├── assets      
-│   ├── scss
+│   ├── scss (Organización SASS 7-1.)
 │   │     ├── abstracts
 │   │     │     ├── _mixins.scss
 │   │     │     └── _variables.scss
