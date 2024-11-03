@@ -13,19 +13,37 @@ adaptabilidad en dispositivos de diferentes tamaños.
 ## 📁 Proyecto 
 ```
 ├── assets      
+│   ├── scss
+│   │     ├── abstracts
+│   │     │     ├── styles.css
+│   │     │     └── styles.css.map
+│   │     ├── component
+│   │     │     ├── styles.css
+│   │     │     ├── styles.css
+│   │     │     └── styles.css.map
+│   │     ├── core
+│   │     │     ├── styles.css
+│   │     │     └── styles.css.map
+│   │     ├── layout
+│   │     │     ├── styles.css
+│   │     │     ├── styles.css
+│   │     │     └── styles.css.map
+│   │     ├── pages
+│   │     │     ├── styles.css
+│   │     │     ├── styles.css
+│   │     │     └── styles.css.map
+│   │     ├── themes
+│   │     │     └── styles.css.map
+│   │     ├── vendors
+│   │     │     └── carpeta bootstrap
+│   │     └── styles.scss
 │   ├── css
-│   │   ├── _contacto.scss
-│   │   ├── _equipo.scss
-│   │   ├── _footer.scss
-│   │   ├── _header.scss
-│   │   ├── _home.scss
-│   │   ├── styles.scss
-│   │   ├── styles.css
-│   │   └── styles.css.map
+│   │     ├── styles.css
+│   │     └── styles.css.map
 │   ├── images
-│   │   └── ..images.jpg
+│   │     └── ..images.jpg
 │   └──  js    
-│      └── main.js       
+│         └── main.js       
 │
 ├── contacto.html  
 ├── equipo.html 
