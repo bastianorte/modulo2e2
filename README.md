@@ -15,25 +15,25 @@ adaptabilidad en dispositivos de diferentes tamaños.
 ├── assets      
 │   ├── scss
 │   │     ├── abstracts
-│   │     │     ├── styles.css
-│   │     │     └── styles.css.map
+│   │     │     ├── _mixins.scss
+│   │     │     └── _variables.scss
 │   │     ├── component
-│   │     │     ├── styles.css
-│   │     │     ├── styles.css
-│   │     │     └── styles.css.map
+│   │     │     ├── _buttons.scss
+│   │     │     ├── _cart.scss
+│   │     │     └── _slider.scss
 │   │     ├── core
-│   │     │     ├── styles.css
-│   │     │     └── styles.css.map
+│   │     │     ├── _reset.scss
+│   │     │     └── _typography.scss
 │   │     ├── layout
-│   │     │     ├── styles.css
-│   │     │     ├── styles.css
-│   │     │     └── styles.css.map
+│   │     │     ├── _banner.scss
+│   │     │     ├── _footer.scss
+│   │     │     └── _header.scss
 │   │     ├── pages
-│   │     │     ├── styles.css
-│   │     │     ├── styles.css
-│   │     │     └── styles.css.map
+│   │     │     ├── _contacto.scss
+│   │     │     ├── _equipo.scss
+│   │     │     └── _home.scss
 │   │     ├── themes
-│   │     │     └── styles.css.map
+│   │     │     └── _dark.scss
 │   │     ├── vendors
 │   │     │     └── carpeta bootstrap
 │   │     └── styles.scss
