@@ -12028,7 +12028,8 @@ body, h1, .h1, h2, .h2, h3, .h3, p, a {
   padding: 10px;
   font-size: 14px;
   color: #f5f3f5;
-  margin-top: 15px;
+  margin-top: 5px;
+  border-radius: 1rem;
 }
 .form_botton button:hover {
   background-color: #576ca8;
@@ -12040,6 +12041,41 @@ body, h1, .h1, h2, .h2, h3, .h3, p, a {
 .mapa h2, .mapa .h2 {
   font-weight: 600;
   margin-bottom: 2rem;
+}
+
+form .form-control {
+  background-color: #f2f6f8;
+  border-radius: 1rem;
+  border: none;
+  box-shadow: 0px 5px 4px rgba(0, 0, 0, 0.11);
+  margin-bottom: 15px;
+}
+form .form-control.thick {
+  height: 3.3rem;
+}
+form .form-control:focus {
+  background-color: #f2f6f8;
+  border: none;
+  box-shadow: 0px 5px 4px rgba(0, 0, 0, 0.11);
+}
+form .message .form-control {
+  padding: 0.5rem 1.8rem;
+}
+form input,
+form textarea {
+  font-size: 1.1rem;
+}
+form ::placeholder {
+  font-family: "Lato", sans-serif;
+  font-weight: 400;
+  font-size: 1rem;
+  color: #576ca8;
+  position: relative;
+  left: 0;
+}
+
+.input-group-text {
+  font-size: 100px;
 }
 
 @media (max-width: 780px) {
