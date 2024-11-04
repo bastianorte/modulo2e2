@@ -64,3 +64,7 @@ Para la responsividad de este proyecto use Media Queries y Bootstrap
 * BoxIcons
 * GoogleFonts
 * Sass
+
+
+## :pencil2: Autor
+Bastian Ortega Fuenzalida
