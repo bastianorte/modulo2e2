@@ -11847,11 +11847,11 @@ textarea.form-control-lg {
 }
 body, h1, .h1, h2, .h2, h3, .h3, p, a {
   font-family: "Lato", sans-serif;
-  color: #1B264F;
+  color: #151e26;
 }
 
 .banner {
-  background-color: #f5f3f5;
+  background-color: #FBFBFB;
   max-width: 100%;
 }
 .banner_container {
@@ -11911,7 +11911,7 @@ body, h1, .h1, h2, .h2, h3, .h3, p, a {
   }
 }
 .footer {
-  background-color: #f5f3f5;
+  background-color: #FBFBFB;
   padding: 3rem 3rem;
 }
 .footer_contenedor {
@@ -11919,7 +11919,7 @@ body, h1, .h1, h2, .h2, h3, .h3, p, a {
   margin-right: auto;
 }
 .footer p {
-  color: #576ca8;
+  color: #54B4D3;
   font-size: 1rem;
   text-align: center;
   margin-bottom: 10px;
@@ -11931,13 +11931,13 @@ body, h1, .h1, h2, .h2, h3, .h3, p, a {
 }
 .footer_link a {
   text-decoration: none;
-  color: #1B264F;
+  color: #3B71CA;
 }
 .footer_link a.active {
   text-decoration: underline;
 }
 .footer_link a i {
-  color: #1B264F;
+  color: #3B71CA;
   font-size: 2rem;
 }
 
@@ -11967,7 +11967,7 @@ body, h1, .h1, h2, .h2, h3, .h3, p, a {
 }
 
 .header {
-  background-color: #1B264F;
+  background-color: #3B71CA;
   color: #333;
 }
 .header_navbar {
@@ -11978,14 +11978,14 @@ body, h1, .h1, h2, .h2, h3, .h3, p, a {
 
 .nav_link_btn {
   background-color: #ffffff;
-  color: #1B264F;
+  color: #3B71CA;
   padding: 1px 5px;
 }
 .nav_link_btn:hover {
-  background-color: #576ca8;
+  background-color: #54B4D3;
 }
 .nav_link_btn:active {
-  background-color: #576ca8;
+  background-color: #54B4D3;
 }
 
 @media (max-width: 780px) {
@@ -11996,7 +11996,7 @@ body, h1, .h1, h2, .h2, h3, .h3, p, a {
     margin-right: 10px;
   }
   .navbar-toggler i {
-    color: #f5f3f5;
+    color: #FBFBFB;
     font-size: 25px;
   }
 }
@@ -12021,18 +12021,18 @@ body, h1, .h1, h2, .h2, h3, .h3, p, a {
 }
 
 .form_botton button {
-  background-color: #1B264F;
+  background-color: #3B71CA;
   border: 10px;
   width: 100%;
   border: 0px;
   padding: 10px;
   font-size: 14px;
-  color: #f5f3f5;
+  color: #FBFBFB;
   margin-top: 5px;
   border-radius: 1rem;
 }
 .form_botton button:hover {
-  background-color: #576ca8;
+  background-color: #54B4D3;
 }
 
 .mapa {
@@ -12069,7 +12069,7 @@ form ::placeholder {
   font-family: "Lato", sans-serif;
   font-weight: 400;
   font-size: 1rem;
-  color: #576ca8;
+  color: #54B4D3;
   position: relative;
   left: 0;
 }
@@ -12108,7 +12108,7 @@ form ::placeholder {
 .doctor_especialidad {
   text-align: center;
   font-size: 14px;
-  color: #274690;
+  color: #9FA6B2;
   margin-top: 1px;
   margin-bottom: 10px;
 }
@@ -12138,7 +12138,7 @@ form ::placeholder {
   padding-top: 1rem;
 }
 .servicios_row_icon {
-  color: #1B264F;
+  color: #3B71CA;
   font-size: 3rem;
 }
 
