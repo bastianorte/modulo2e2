@@ -15,7 +15,20 @@ Para la responsividad de este proyecto use Media Queries y Bootstrap
 
 
 ## 👁️ Acceso al proyecto
-  Puedes visualizar la pagina en el siguiente link:
+
+  Para visualizar el archivo HTML y poder modificar el archivo SASS
+
+  Si tienes Git instalado en tu máquina, puedes clonar el repositorio usando el siguiente comando en tu terminal o línea de comandos:
+
+  ```
+  git clone https://github.com/bastianorte/modulo2e2.git
+  ```
+
+  Abre la carpeta descargada en Visual Studio Code
+
+  Utiliza la extension "Live SASS Compiler" para modificar los archivos SCSS
+
+  Tambien puedes visualizar la pagina en el siguiente link:
   https://bastianorte.github.io/modulo2e2/index.html
 
 ## 📁 Proyecto 
