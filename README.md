@@ -26,7 +26,7 @@ Para la responsividad de este proyecto use Media Queries y Bootstrap
 
   Puedes ver los archivos HTML en un navegador
   
-  para modificar los archivos SASS, abre la carpeta descargada en Visual Studio Code
+  Para modificar los archivos SASS, abre la carpeta descargada en Visual Studio Code
 
   Utiliza la extension "Live SASS Compiler" para modificar los archivos SCSS
 
