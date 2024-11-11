@@ -11862,10 +11862,10 @@ body, h1, .h1, h2, .h2, h3, .h3, p, a {
 
 @media (max-width: 780px) {
   .banner {
-    height: 600px;
+    height: 800px;
   }
   .banner_container {
-    padding: 1em 1em;
+    padding: 5em 1em;
   }
   .banner_container h1, .banner_container .h1 {
     font-size: 1.5rem;
@@ -11989,6 +11989,11 @@ body, h1, .h1, h2, .h2, h3, .h3, p, a {
 }
 
 @media (max-width: 780px) {
+  .header {
+    position: fixed;
+    width: 100%;
+    z-index: 10;
+  }
   .navbar-logo {
     padding-left: 10px;
   }
@@ -12001,11 +12006,17 @@ body, h1, .h1, h2, .h2, h3, .h3, p, a {
   }
 }
 @media (min-width: 781px) and (max-width: 1280px) {
+  .header {
+    position: static;
+  }
   .navbar-logo {
     padding-left: 10px;
   }
 }
 @media (min-width: 1281px) {
+  .header {
+    position: static;
+  }
   .navbar-logo {
     padding-left: 10px;
   }
